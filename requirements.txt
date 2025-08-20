@@ -1,0 +1,16 @@
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+google-generativeai
+langchain-neo4j
+neo4j
+langchain-graph-retriever
+langchain-experimental
+python-docx
+docx2txt
+python-dotenv
+tqdm
+numpy
+pandas
+sentence-transformers

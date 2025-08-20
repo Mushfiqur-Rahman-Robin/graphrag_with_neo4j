@@ -1,0 +1,25 @@
+[project]
+name = "graphrag-with-neo4j"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "notebook>=7.4.5",
+    "langchain",
+    "langchain-core",
+    "langchain-community",
+    "langchain-google-genai",
+    "google-generativeai",
+    "langchain-neo4j",
+    "neo4j",
+    "langchain-graph-retriever",
+    "langchain-experimental",
+    "python-docx",
+    "docx2txt",
+    "python-dotenv",
+    "tqdm",
+    "numpy",
+    "pandas",
+    "sentence-transformers"
+]
