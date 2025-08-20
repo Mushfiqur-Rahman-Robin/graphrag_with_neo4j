@@ -16,7 +16,7 @@ A production-ready GraphRAG (Graph-Augmented Retrieval) system that combines vec
 
 ```bash
 git clone <your-repo>
-cd graphrag_system
+cd graphrag_with_neo4j
 ```
 
 ### 2. Install Dependencies
@@ -35,7 +35,7 @@ cp .env.example .env
 ### 4. Start Neo4j
 
 ```bash
-docker-compose up -d
+docker compose up
 ```
 
 ### 5. Add Documents
